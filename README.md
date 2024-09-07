@@ -1,4 +1,4 @@
-## Nos Embalos do Surfing: Um Guia Rápido para Navegantes Digitais! 
+## Nos Embalos do Surfing - Imersão Dev com Google Gemini 
 
 **O que é isso?**
 
